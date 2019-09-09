@@ -1,0 +1,6 @@
+name: HardcoreGamemode
+main: luca28pet\HardcoreGamemode\Main
+version: 0.0.1
+api: 3.0.0
+author: luca28pet
+description: Puts a player in gm 3 instead of banning it after a death in hardcore mode
